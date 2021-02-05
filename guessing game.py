@@ -19,3 +19,7 @@ else:
         print("CORRECT well done champ")
     else:
         print("Try again loser")
+#
+# for value in range(21):
+#     value = value * 2
+#     print(value)
